@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vyankatesh Jaju.
 - 👀 I’m interested in Web Devlopment.
-- 🌱 I’m currently learning React JS and leveling up my skills.
+- 🌱 I’m currently learning React JS and leveling up in the field of webdev.
 - 💞️ I’m looking to collaborate on websites through my skills.
 - 📫 How to reach me https://twitter.com/venkiee_7
 
